@@ -60,7 +60,7 @@ Prebuilt `gno`, `gnokey`, `gnoland`, `gnoweb` binaries for darwin/linux × amd64
 Want to regenerate genesis? See [here](https://github.com/gnolang/gno/blob/chain/topaz/misc/deployments/topaz.gno.land/README.md).
 
 ### Validators
-Please refer to this [link](https://github.com/gnolang/gno/blob/chain/topaz/misc/deployments/topaz.gno.land/VALIDATOR.md) to join Topaz as a Validator. Once your validator is up and synced, you will have to register your valoper profile again. This enables us to add you directly to the Topaz valset. If you have any questions, please join our [Discord](https://discord.gg/gnoland).
+Please refer to this [link](https://github.com/gnolang/gno/blob/chain/topaz/misc/deployments/topaz.gno.land/VALIDATOR.md) to join Topaz as a Validator. Once your validator is up and synced, you will have to register your valoper profile again with the same operator address you used in Test13. This enables us to add you directly to the Topaz valset. The team will soon announce on [Discord](https://discord.gg/gnoland) when Test13 will sunset in order to simplify the validator migration process.
 
 ---
 Topaz represents significant progress toward the Gno mainnet. This naming change marks a transition from the test phase to a more permanent stage. Join us on Topaz as we draw nearer to the long-awaited mainnet.
