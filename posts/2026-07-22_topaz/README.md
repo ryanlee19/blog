@@ -7,7 +7,7 @@ authors: [ryanlee19]
 
 # Topaz is Live
 
-We’re pleased to announce that Topaz, the latest test network for Gno.land, is live. Topaz is the next iteration after Test13, and it is a new chain, not a hardfork. 
+We’re pleased to announce that Topaz, the latest test network for Gno.land, is live. Topaz is the next iteration after Test13, and it is a new chain, not a hardfork. **Notice: Topaz is an experimental test network.**
 
 Because no state carries over from Test13, balances, realms, and registered names all start at zero. You’ll have to receive GNOT from the [faucet](https://topaz.testnets.gno.land/faucet) and re-register your names. Test13 will sunset within the next 24 hours.
 
@@ -63,7 +63,6 @@ Want to regenerate genesis? See [here](https://github.com/gnolang/gno/blob/chain
 Please refer to this [link](https://github.com/gnolang/gno/blob/chain/topaz/misc/deployments/topaz.gno.land/VALIDATOR.md) to join Topaz as a Validator. Once your validator is up and synced, you will have to register your valoper profile again with the same operator address you used in Test13. This enables us to add you directly to the Topaz valset. The team will soon announce on [Discord](https://discord.gg/gnoland) when Test13 will sunset in order to simplify the validator migration process.
 
 ---
-Topaz represents significant progress toward the Gno mainnet. This naming change marks a transition from the test phase to a more permanent stage. Join us on Topaz as we draw nearer to the long-awaited mainnet.
 
 #### Links
 - Gnoweb: https://topaz.testnets.gno.land
@@ -72,3 +71,7 @@ Topaz represents significant progress toward the Gno mainnet. This naming change
 - Gnockpit: https://gnockpit.topaz.testnets.gno.land
 - Status: https://status.topaz.testnets.gno.land
 - Tx-indexer: https://indexer.topaz.testnets.gno.land/graphql
+
+**Disclaimer**
+*Tokens on Topaz testnet have no real-world value, and participation is for testing purposes only.*
+
